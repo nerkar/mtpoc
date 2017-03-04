@@ -1,0 +1,26 @@
+
+
+
+curl -u admin:M1nt0uch
+
+https://efm-sandbox.mindtouch.us
+ 
+
+ =====================
+		
+  curl -u admin:M1nt0uch -i https://efm-sandbox.mindtouch.us/@api/deki/pages/=Compuware
+
+  curl -u admin:M1nt0uch -i https://efm-sandbox.mindtouch.us/@api/deki/pages/539
+
+ 
+  
+
+
+curl -u admin:M1nt0uch -i https://efm-sandbox.mindtouch.us/@api/deki/pages/=Compuware/tree
+
+curl -u admin:M1nt0uch -i https://efm-sandbox.mindtouch.us/@api/deki/pages/=Compuware/tree -o sitemap.xml
+
+//JSON RESPONSE
+curl -u admin:M1nt0uch -i https://efm-sandbox.mindtouch.us/@api/deki/pages/=Compuware/tree?dream.out.format=json -o sitemap.json
+
+?dream.out.format=json
