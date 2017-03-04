@@ -1,0 +1,78 @@
+﻿Set-Cookie: dekisession="d5b90a44-9d45-404b-9c7e-899d790ffc85"; Domain=.efm-sandbox.mindtouch.us; Expires=Thu, 11-Feb-2027 12:24:38 GMT; Version=1; Path=/; Secure; HttpOnly
+Vary: Accept-Encoding
+
+<subpages totalcount="8" count="8" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/537/subpages">
+  <page.subpage id="1706" guid="58689a8d050e40f1a43c852908987b29" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/1706?redirects=0" deleted="false" terminal="true" subpages="false">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Glossary</uri.ui>
+    <title>Glossary</title>
+    <path seo="true">Compuware/Glossary</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-06T15:03:23Z</date.created>
+    <language>en-US</language>
+    <article>topic</article>
+  </page.subpage>
+  <page.subpage id="1709" guid="d6bf01a2a6b2483c979dc5de63f9b36f" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/1709?redirects=0" deleted="false" terminal="true" subpages="false">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Index</uri.ui>
+    <title>Index</title>
+    <path seo="true">Compuware/Index</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-06T15:06:07Z</date.created>
+    <language>en-US</language>
+    <article>topic</article>
+  </page.subpage>
+  <page.subpage id="539" guid="543144d5af4f42058fa3fecf2619eb97" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539?redirects=0" deleted="false" terminal="false" subpages="true">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Introduction</uri.ui>
+    <title>Introduction</title>
+    <path seo="true">Compuware/Introduction</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-03T08:41:39Z</date.created>
+    <language>en-US</language>
+    <article>topic-guide</article>
+  </page.subpage>
+  <page.subpage id="607" guid="e4d053124ef74ff6ba0a85ee1d4aba27" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/607?redirects=0" deleted="false" terminal="false" subpages="true">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Part_1._Abend-AID_Receive_From_Network_(RFN)_Installation</uri.ui>
+    <title>Part 1. Abend-AID Receive From Network (RFN) Installation</title>
+    <path seo="true">Compuware/Part_1._Abend-AID_Receive_From_Network_(RFN)_Installation</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-03T10:14:23Z</date.created>
+    <language>en-US</language>
+    <article>topic-guide</article>
+  </page.subpage>
+  <page.subpage id="605" guid="f48be3937d76480fb014240adb265fd7" draft.state="active" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/605?redirects=0" deleted="false" terminal="false" subpages="true">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Part_2._Abend-AID_Configuration</uri.ui>
+    <title>Part 2. Abend-AID Configuration</title>
+    <path seo="true">Compuware/Part_2._Abend-AID_Configuration</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-03T10:13:34Z</date.created>
+    <language>en-US</language>
+    <article>topic-guide</article>
+  </page.subpage>
+  <page.subpage id="628" guid="228f81896c384db6be428faaf74072c5" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/628?redirects=0" deleted="false" terminal="false" subpages="true">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Part_3._Abend-AID%2C_Abend-AID_for_CICS%2C_and_AbendAID_Viewer_Customization</uri.ui>
+    <title>Part 3. Abend-AID, Abend-AID for CICS, and AbendAID Viewer Customization</title>
+    <path seo="true">Compuware/Part_3._Abend-AID,_Abend-AID_for_CICS,_and_AbendAID_Viewer_Customization</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-03T10:33:20Z</date.created>
+    <language>en-US</language>
+    <article>topic-guide</article>
+  </page.subpage>
+  <page.subpage id="1295" guid="b800888ce4294418b784dc167130c788" draft.state="active" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/1295?redirects=0" deleted="false" terminal="false" subpages="true">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Part_4._Maintenance</uri.ui>
+    <title>Part 4. Maintenance</title>
+    <path seo="true">Compuware/Part_4._Maintenance</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-06T10:39:16Z</date.created>
+    <language>en-US</language>
+    <article>topic-guide</article>
+  </page.subpage>
+  <page.subpage id="1303" guid="09c6c1fbf72e478496a0a56f77af579b" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/1303?redirects=0" deleted="false" terminal="false" subpages="true">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Part_5._Appendixes</uri.ui>
+    <title>Part 5. Appendixes</title>
+    <path seo="true">Compuware/Part_5._Appendixes</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-06T10:54:53Z</date.created>
+    <language>en-US</language>
+    <article>topic-guide</article>
+  </page.subpage>
+</subpages>
+ICAN-20+ICAN-13@ICAN-20 MINGW64 /e/MindTouch/mtpoc/api-integration (api-integration)<?xml version="1.0" encoding="utf-8"?>

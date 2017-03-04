@@ -1,0 +1,129 @@
+﻿
+HTTP/1.1 200 OK
+Date: Sat, 11 Feb 2017 12:34:32 GMT
+Server: Dream-HTTPAPI/2.6.0.0
+X-Data-Stats: request-time-ms=23; cache-hit=15; cache-miss=13; cache-ratio=0.54; hs-queries=4; hs-time-ms=3.51; page-miss=1; pagenode-hit=2; pagenode-miss=3; pagenode-ratio=0.40; page-ratio=0.00; permission-hit=6; permission-miss=2; permission-ratio=0.75; ratings-miss=2; ratings-ratio=0.00; request-miss=3; request-ratio=0.00; role-hit=1; role-ratio=1.00; tag-miss=2; tag-ratio=0.00; user-hit=6; user-ratio=1.00;
+Strict-Transport-Security: max-age=31536000
+X-Dream-Feature: GET:pages/*
+X-Deki-Site: id="site_9482"
+X-Deki-Session: 16fcd1ce-2f0e-4b57-b2de-44d53aa52b4e
+Content-Type: application/xml; charset=utf-8
+Content-Length: 6447
+Set-Cookie: dekisession="16fcd1ce-2f0e-4b57-b2de-44d53aa52b4e"; Domain=.efm-sandbox.mindtouch.us; Expires=Thu, 11-Feb-2027 12:34:32 GMT; Version=1; Path=/; Secure; HttpOnly
+Vary: Accept-Encoding
+
+<page id="539" guid="543144d5af4f42058fa3fecf2619eb97" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539?redirects=0" deleted="false" unpublish="false" revision="3">
+  <uri.ui>https://efm-sandbox.mindtouch.us/Compuware/Introduction</uri.ui>
+  <title>Introduction</title>
+  <path seo="true">Compuware/Introduction</path>
+  <namespace>main</namespace>
+  <date.created>2017-02-03T08:41:39Z</date.created>
+  <language>en-US</language>
+  <article>topic-guide</article>
+  <language.effective>en-US</language.effective>
+  <metrics>
+    <metric.views>25</metric.views>
+    <metric.charcount>1777</metric.charcount>
+  </metrics>
+  <summary />
+  <security href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/security">
+    <permissions.effective>
+      <operations mask="18446744073709551615">LOGIN,BROWSE,READ,SUBSCRIBE,UPDATE,CREATE,DELETE,CHANGEPERMISSIONS,CONTROLPANEL,UNSAFECONTENT,USERHISTORY,DRAFT_UPDATE,DRAFT_CREATE,DRAFT_DELETE,ADMIN</operations>
+    </permissions.effective>
+    <permissions.page>
+      <operations mask="18446744073709551615">LOGIN,BROWSE,READ,SUBSCRIBE,UPDATE,CREATE,DELETE,CHANGEPERMISSIONS,CONTROLPANEL,UNSAFECONTENT,USERHISTORY,DRAFT_UPDATE,DRAFT_CREATE,DRAFT_DELETE,ADMIN</operations>
+      <restriction id="1">Public</restriction>
+    </permissions.page>
+    <grants />
+    <permissions.revoked />
+  </security>
+  <user.createdby anonymous="false" id="1" wikiid="site_9482" href="https://efm-sandbox.mindtouch.us/@api/deki/users/1">
+    <nick>admin</nick>
+    <username>admin</username>
+    <fullname></fullname>
+    <email>jiniguez@efmagency.com</email>
+    <password exists="true" />
+    <license.seat owner="true">true</license.seat>
+    <date.created>2016-10-26T17:10:48Z</date.created>
+    <status>active</status>
+    <date.lastlogin>2017-02-09T14:25:32Z</date.lastlogin>
+    <hash.email>94b26cb6322475bf7609fe0680941734</hash.email>
+    <uri.gravatar>https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm</uri.gravatar>
+    <uri.avatar>https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm</uri.avatar>
+  </user.createdby>
+  <date.edited>2017-02-03T08:50:31Z</date.edited>
+  <date.modified>2017-02-07T14:48:23Z</date.modified>
+  <timeuuid>794c9580-ed44-11e6-80d5-2c01a8e4ecdc</timeuuid>
+  <user.author anonymous="false" id="1" wikiid="site_9482" href="https://efm-sandbox.mindtouch.us/@api/deki/users/1">
+    <nick>admin</nick>
+    <username>admin</username>
+    <fullname></fullname>
+    <email>jiniguez@efmagency.com</email>
+    <password exists="true" />
+    <license.seat owner="true">true</license.seat>
+    <date.created>2016-10-26T17:10:48Z</date.created>
+    <status>active</status>
+    <date.lastlogin>2017-02-09T14:25:32Z</date.lastlogin>
+    <hash.email>94b26cb6322475bf7609fe0680941734</hash.email>
+    <uri.gravatar>https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm</uri.gravatar>
+    <uri.avatar>https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm</uri.avatar>
+  </user.author>
+  <description>1 words added, 8 words removed</description>
+  <page.parent id="537" guid="22ef5f8740cb4bd5844738404782e3c3" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/537?redirects=0" deleted="false">
+    <uri.ui>https://efm-sandbox.mindtouch.us/Compuware</uri.ui>
+    <title>Compuware</title>
+    <path seo="true">Compuware</path>
+    <namespace>main</namespace>
+    <date.created>2017-02-03T08:26:50Z</date.created>
+    <language>en-US</language>
+    <article>topic-category</article>
+    <page.parent id="1" guid="00000000000000000000000000000000" draft.state="inactive" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/1?redirects=0" deleted="false">
+      <uri.ui>https://efm-sandbox.mindtouch.us/</uri.ui>
+      <title>Home</title>
+      <path seo="true" type="fixed"></path>
+      <namespace>main</namespace>
+      <date.created>2016-10-26T17:10:48Z</date.created>
+      <language>en-US</language>
+    </page.parent>
+  </page.parent>
+  <rating score="" count="0" seated.score="" seated.count="0" unseated.score="" unseated.count="0" anonymous.score="" anonymous.count="0" />
+  <subpages href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/subpages" />
+  <aliases href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/aliases" />
+  <revisions count="3" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/revisions" />
+  <revisions.archive count="0" deprecated="true" href="https://efm-sandbox.mindtouch.us/@api/deki/archive/pages/=Compuware%252FIntroduction/revisions" />
+  <comments count="0" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/comments" />
+  <properties count="1" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/properties">
+    <property revision="2" resid="1407" name="urn:custom.mindtouch.com#_editedby" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/properties/urn%253Acustom.mindtouch.com%2523_editedby/info" etag="1407.r2_ts2017-02-07T14:48:26Z" resource-is-deleted="false" resource-rev-is-deleted="false">
+      <contents type="text/plain; charset=utf-8" size="2" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/properties/urn%253Acustom.mindtouch.com%2523_editedby">[]</contents>
+      <date.modified>2017-02-07T14:48:26Z</date.modified>
+      <user.modified anonymous="false" id="1" wikiid="site_9482" href="https://efm-sandbox.mindtouch.us/@api/deki/users/1">
+        <nick>admin</nick>
+        <username>admin</username>
+        <fullname></fullname>
+        <email>jiniguez@efmagency.com</email>
+        <password exists="true" />
+        <license.seat owner="true">true</license.seat>
+        <date.created>2016-10-26T17:10:48Z</date.created>
+        <status>active</status>
+        <date.lastlogin>2017-02-09T14:25:32Z</date.lastlogin>
+        <hash.email>94b26cb6322475bf7609fe0680941734</hash.email>
+        <uri.gravatar>https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm</uri.gravatar>
+        <uri.avatar>https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm</uri.avatar>
+      </user.modified>
+      <change-description></change-description>
+    </property>
+  </properties>
+  <tags count="1" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/tags">
+    <tag value="article:topic-guide" id="2" href="https://efm-sandbox.mindtouch.us/@api/deki/site/tags/2">
+      <uri>https://efm-sandbox.mindtouch.us/Special:Tags?tag=article:topic-guide</uri>
+      <type>text</type>
+      <title>article:topic-guide</title>
+    </tag>
+  </tags>
+  <files count="0" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/files?redirects=0" />
+  <contents type="application/vnd.deki1410+xml" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/contents" etag="f968a32b39ffcb31fa2fa9d808b832ea" />
+  <contents.alt type="application/pdf" href="https://efm-sandbox.mindtouch.us/@api/deki/pages/539/pdf/Introduction.pdf" />
+  <page.redirectedfrom />
+  <outbound count="0" />
+  <inbound count="0" />
+</page>
