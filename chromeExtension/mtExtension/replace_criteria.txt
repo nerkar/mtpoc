@@ -1,0 +1,31 @@
+Replace Instructions
+>find
+>replace with
+
+-------
+
+"subpages":{"page":[
+"subpages":[
+
+"subpages":"",
+"subpages":[],
+
+]},
+],
+
+
+"page":{
+(blank)
+
+#text
+content
+
+"title"
+"heading"
+
+"subpages"
+"sub"
+
+>replace last '}' with blank 
+> add '[' at the very beginning and ']'  at EOF
+
