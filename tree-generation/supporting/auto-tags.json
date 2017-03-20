@@ -1,0 +1,12 @@
+{
+  "@count": "1",
+  "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2147/tags",
+  "tag": {
+    "@value": "article:topic-category",
+    "@id": "1",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/site/tags/1",
+    "title": "article:topic-category",
+    "type": "text",
+    "uri": "https://efm-sandbox.mindtouch.us/Special:Tags?tag=article:topic-category"
+  }
+}

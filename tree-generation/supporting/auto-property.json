@@ -1,0 +1,26 @@
+{
+  "@id": "0",
+  "@guid": "00000000000000000000000000000000",
+  "@virtual": "true",
+  "@draft.state": "inactive",
+  "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/0?redirects=0",
+  "@deleted": "false",
+  "date.created": "Thu, 01 Jan 1970 00:00:00 GMT",
+  "language": "en-US",
+  "namespace": "main",
+  "path": {
+    "@seo": "true",
+    "#text": "home"
+  },
+  "security": {
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/0/security",
+    "permissions.effective": {
+      "operations": {
+        "@mask": "18446744073709551615",
+        "#text": "LOGIN,BROWSE,READ,SUBSCRIBE,UPDATE,CREATE,DELETE,CHANGEPERMISSIONS,CONTROLPANEL,UNSAFECONTENT,USERHISTORY,DRAFT_UPDATE,DRAFT_CREATE,DRAFT_DELETE,ADMIN"
+      }
+    }
+  },
+  "title": "home",
+  "uri.ui": "https://efm-sandbox.mindtouch.us/home"
+}

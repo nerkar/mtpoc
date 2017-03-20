@@ -1,0 +1,204 @@
+{
+  "@id": "2079",
+  "@guid": "094d668b90e14a5c8a682394539b4ff8",
+  "@draft.state": "inactive",
+  "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079?redirects=0",
+  "@deleted": "false",
+  "@unpublish": "false",
+  "@revision": "1",
+  "aliases": { "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/aliases" },
+  "article": "topic-category",
+  "comments": {
+    "@count": "0",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/comments"
+  },
+  "contents": {
+    "@type": "application/vnd.deki1410+xml",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/contents",
+    "@etag": "d41d8cd98f00b204e9800998ecf8427e"
+  },
+  "contents.alt": {
+    "@type": "application/pdf",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/pdf/Compuware2.pdf"
+  },
+  "date.created": "Sat, 04 Mar 2017 10:35:06 GMT",
+  "date.edited": "Sat, 04 Mar 2017 10:35:06 GMT",
+  "date.modified": "Sat, 04 Mar 2017 10:35:06 GMT",
+  "description": "Page created, 0 words added",
+  "files": {
+    "@count": "0",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/files?redirects=0"
+  },
+  "inbound": { "@count": "0" },
+  "language": "en-US",
+  "language.effective": "en-US",
+  "metrics": {
+    "metric.charcount": "0",
+    "metric.views": "37"
+  },
+  "namespace": "main",
+  "outbound": { "@count": "0" },
+  "page.parent": {
+    "@id": "1",
+    "@guid": "00000000000000000000000000000000",
+    "@draft.state": "inactive",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/1?redirects=0",
+    "@deleted": "false",
+    "date.created": "Wed, 26 Oct 2016 17:10:48 GMT",
+    "language": "en-US",
+    "namespace": "main",
+    "path": {
+      "@seo": "true",
+      "@type": "fixed",
+      "#text": ""
+    },
+    "title": "Home",
+    "uri.ui": "https://efm-sandbox.mindtouch.us/"
+  },
+  "page.redirectedfrom": "",
+  "path": {
+    "@seo": "true",
+    "#text": "Compuware2"
+  },
+  "properties": {
+    "@count": "1",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/properties",
+    "property": {
+      "@revision": "1",
+      "@resid": "1513",
+      "@name": "urn:custom.mindtouch.com#_editedby",
+      "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/properties/urn%253Acustom.mindtouch.com%2523_editedby/info",
+      "@etag": "1513.r1_ts2017-03-04T10:35:30Z",
+      "@resource-is-deleted": "false",
+      "@resource-rev-is-deleted": "false",
+      "change-description": "draft publish",
+      "contents": {
+        "@type": "text/plain; charset=utf-8",
+        "@size": "2",
+        "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/properties/urn%253Acustom.mindtouch.com%2523_editedby",
+        "#text": "[]"
+      },
+      "date.modified": "Sat, 04 Mar 2017 10:35:30 GMT",
+      "user.modified": {
+        "@anonymous": "false",
+        "@id": "1",
+        "@wikiid": "site_9482",
+        "@href": "https://efm-sandbox.mindtouch.us/@api/deki/users/1",
+        "date.created": "Wed, 26 Oct 2016 17:10:48 GMT",
+        "date.lastlogin": "Fri, 17 Mar 2017 07:48:42 GMT",
+        "email": "jiniguez@efmagency.com",
+        "fullname": "",
+        "hash.email": "94b26cb6322475bf7609fe0680941734",
+        "license.seat": {
+          "@owner": "true",
+          "#text": "true"
+        },
+        "nick": "admin",
+        "password": { "@exists": "true" },
+        "status": "active",
+        "uri.avatar": "https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm",
+        "uri.gravatar": "https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm",
+        "username": "admin"
+      }
+    }
+  },
+  "rating": {
+    "@score": "",
+    "@count": "0",
+    "@seated.score": "",
+    "@seated.count": "0",
+    "@unseated.score": "",
+    "@unseated.count": "0",
+    "@anonymous.score": "",
+    "@anonymous.count": "0"
+  },
+  "revisions": {
+    "@count": "1",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/revisions"
+  },
+  "revisions.archive": {
+    "@count": "0",
+    "@deprecated": "true",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/archive/pages/=Compuware2/revisions"
+  },
+  "security": {
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/security",
+    "grants": "",
+    "permissions.effective": {
+      "operations": {
+        "@mask": "18446744073709551615",
+        "#text": "LOGIN,BROWSE,READ,SUBSCRIBE,UPDATE,CREATE,DELETE,CHANGEPERMISSIONS,CONTROLPANEL,UNSAFECONTENT,USERHISTORY,DRAFT_UPDATE,DRAFT_CREATE,DRAFT_DELETE,ADMIN"
+      }
+    },
+    "permissions.page": {
+      "operations": {
+        "@mask": "18446744073709551615",
+        "#text": "LOGIN,BROWSE,READ,SUBSCRIBE,UPDATE,CREATE,DELETE,CHANGEPERMISSIONS,CONTROLPANEL,UNSAFECONTENT,USERHISTORY,DRAFT_UPDATE,DRAFT_CREATE,DRAFT_DELETE,ADMIN"
+      },
+      "restriction": {
+        "@id": "1",
+        "#text": "Public"
+      }
+    },
+    "permissions.revoked": ""
+  },
+  "subpages": { "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/subpages" },
+  "summary": "",
+  "tags": {
+    "@count": "1",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/pages/2079/tags",
+    "tag": {
+      "@value": "article:topic-category",
+      "@id": "1",
+      "@href": "https://efm-sandbox.mindtouch.us/@api/deki/site/tags/1",
+      "title": "article:topic-category",
+      "type": "text",
+      "uri": "https://efm-sandbox.mindtouch.us/Special:Tags?tag=article:topic-category"
+    }
+  },
+  "timeuuid": "3b822900-00c6-11e7-8069-c3029c436571",
+  "title": "Compuware2",
+  "uri.ui": "https://efm-sandbox.mindtouch.us/Compuware2",
+  "user.author": {
+    "@anonymous": "false",
+    "@id": "1",
+    "@wikiid": "site_9482",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/users/1",
+    "date.created": "Wed, 26 Oct 2016 17:10:48 GMT",
+    "date.lastlogin": "Fri, 17 Mar 2017 07:48:42 GMT",
+    "email": "jiniguez@efmagency.com",
+    "fullname": "",
+    "hash.email": "94b26cb6322475bf7609fe0680941734",
+    "license.seat": {
+      "@owner": "true",
+      "#text": "true"
+    },
+    "nick": "admin",
+    "password": { "@exists": "true" },
+    "status": "active",
+    "uri.avatar": "https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm",
+    "uri.gravatar": "https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm",
+    "username": "admin"
+  },
+  "user.createdby": {
+    "@anonymous": "false",
+    "@id": "1",
+    "@wikiid": "site_9482",
+    "@href": "https://efm-sandbox.mindtouch.us/@api/deki/users/1",
+    "date.created": "Wed, 26 Oct 2016 17:10:48 GMT",
+    "date.lastlogin": "Fri, 17 Mar 2017 07:48:42 GMT",
+    "email": "jiniguez@efmagency.com",
+    "fullname": "",
+    "hash.email": "94b26cb6322475bf7609fe0680941734",
+    "license.seat": {
+      "@owner": "true",
+      "#text": "true"
+    },
+    "nick": "admin",
+    "password": { "@exists": "true" },
+    "status": "active",
+    "uri.avatar": "https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm",
+    "uri.gravatar": "https://gravatar.com/avatar/94b26cb6322475bf7609fe0680941734.png?d=mm",
+    "username": "admin"
+  }
+}
