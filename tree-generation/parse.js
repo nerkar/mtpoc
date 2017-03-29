@@ -7,7 +7,8 @@ var urlencode = require('urlencode');
 
 var readFile = promise.promisify(require("fs").readFile);
 
-readFile("pages.json", "utf8").then(function (contents) {
+readFile("outputJSON.json", "utf8").then(function (contents) {
+//readFile(process.argv[2], "utf8").then(function (contents) {
   return eval(contents);
 }).then(function (result) {
   iterate(result, "");
@@ -42,9 +43,9 @@ function generateTree(page, endpointPath) {
       console.log(error);
     }
     else {
-      console.log('responseCode = ' + response.statusCode);
-      console.log(body);
-      if (response.statusCode !== 200) {
+      //console.log('responseCode = ' + response.statusCode);
+      //console.log(body);
+      if (response.statusCode === 200) {
         console.log('responseCode = ' + response.statusCode);
         console.log(body);
       }
