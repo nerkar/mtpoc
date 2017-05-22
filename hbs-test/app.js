@@ -1,18 +1,7 @@
-var a =[ {
-"heading" : "asdf",
-"content" : "ct",
-"heading" : "asdf",
-"content" : "ct"
- },
-{
-"heading" : "asdf",
-"content" : "ct",
-"heading" : "asdf",
-"content" : "ct"
- }
-]
+var fs = require('fs');
+
+var file = fs.createReadStream('file1.txt');
+var wStream = fs.createWriteStream('e:/images/file2.txt');
 
 
-a.forEach(function(element) { 
-	console.log(element);
-});
+file.pipe(wStream);
