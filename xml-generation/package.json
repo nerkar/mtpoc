@@ -1,5 +1,5 @@
 {
-  "name": "xml-generation",
+  "name": "hbs-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "cheerio": "^0.22.0",
+    "handlebars": "^4.0.6",
+    "hashmap": "^2.1.0",
+    "install": "^0.10.1",
+    "jsontoxml": "0.0.11",
+    "mkdirp": "^0.5.1",
+    "npm": "^4.6.1",
+    "xmlbuilder": "^9.0.0"
+  }
 }
